@@ -8,6 +8,8 @@
         <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
         <LangVersion>latest</LangVersion>
         <RunPostBuildEvent>Always</RunPostBuildEvent>
+        <Nullable>enable</Nullable>
+        <Company>C4NX</Company>
     </PropertyGroup>
 
     <ItemGroup>
